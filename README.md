@@ -6,24 +6,9 @@
 - 🌱 I’m currently learning node js, react js, express js, dsa
 
 <div class="Box-body p-4">
-    <div class="d-flex flex-justify-between">
-      <div class="text-mono text-small mb-3">
-        <a href="/ghoshsuman845/ghoshsuman845" class="no-underline Link--primary">ghoshsuman845</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-      </div>
-
-    </div>
-    <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" id="user-content--hola-im-suman-ghosh" dir="auto"><a class="heading-link" href="#-hola-im-suman-ghosh"> Hola,<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" data-animated-image="" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"> I'm Suman Ghosh<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h1>
-<h3 id="user-content-woman_technologist-about-me" dir="auto"><a class="heading-link" href="#woman_technologist-about-me">👩‍💻 About Me<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
-<ul dir="auto">
-<li>👩🏻‍💻 Pronouns: She/Her</li>
-<li>💼 I’m currently working as a <strong>Frontend Engineer</strong> at <a href="/ghoshsuman845/ghoshsuman845/blob/main/cred.club">CRED</a>.</li>
-<li>📋 I've previously worked as a Software Engineer at <a href="/ghoshsuman845/ghoshsuman845/blob/main/navi.com">Navi</a> and an MTS at <a href="/ghoshsuman845/ghoshsuman845/blob/main/geeksforgeeks.org">GeeksforGeeks</a>.</li>
-<li>🎒 I've done almost 6-7 internships in frontend primarily.</li>
-<li>👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. One of my videos on youtube has 23K+ views on it, wherein I've taught how to create a <a href="https://www.youtube.com/watch?v=G4Y9N1Z-IUE&amp;t=103s&amp;ab_channel=AccioJob" rel="nofollow">Swiggy Clone</a>.</li>
-<li>🧭 I love exploring and working both in frontend and backend.</li>
-<li>🎭 I love speaking at events and connecting with people.</li>
-<li>📫 How to reach me: Check social links below.</li>
-</ul>
+    
+    <article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 align="center" id="user-content--hola-im-suman-ghosh" dir="auto">
+  
 <h3 id="user-content-hammer_and_wrench-languages-and-tools" dir="auto"><a class="heading-link" href="#hammer_and_wrench-languages-and-tools">🛠️ Languages and Tools<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 <div dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" style="max-width: 100%;"></a>&nbsp;
